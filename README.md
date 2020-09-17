@@ -28,3 +28,7 @@ Assignment-6
 1. binary_semaphore.c , counting_semaphore.c
 2. peterson.c
 3. race_condition.c
+
+Assignment-7
+1. Producerconsumer.c
+2. Readerwriter.c
