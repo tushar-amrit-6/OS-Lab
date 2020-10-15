@@ -43,3 +43,5 @@ Assignment-10
 1. FCFS.c
 2. ShortestJobFirstScheduling.c
 3. ShortestJobFirstScheduling_Preemptive.c
+4. Priority.c
+5. RoundRobin.c
