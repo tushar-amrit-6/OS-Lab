@@ -38,3 +38,8 @@ Assignment-8
 
 Assignment-9
 1. Banker'sAlgorithm.cpp
+
+Assignment-10
+1. FCFS.c
+2. ShortestJobFirstScheduling.c
+3. ShortestJobFirstScheduling_Preemptive.c
