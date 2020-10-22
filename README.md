@@ -45,3 +45,8 @@ Assignment-10
 3. ShortestJobFirstScheduling_Preemptive.c
 4. Priority.c
 5. RoundRobin.c
+
+Assignment-11
+ 1. SSTF.c
+ 2. scan.c
+ 3. c_scan_scheduling.c
